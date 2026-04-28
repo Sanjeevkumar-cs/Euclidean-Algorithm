@@ -65,5 +65,3 @@ The last non‑zero remainder is the GCD.
 🎓 Mnemonic (Quick Recall)
 👉 “Divide → Remainder → Repeat → Stop at 0”
 
-🔗 Hindi Explanation (Conceptual Clarity)
-Euclidean Algorithm कहता है कि दो संख्याओं का GCD निकालने के लिए बार‑बार बड़ी संख्या को छोटी संख्या से भाग दो और शेषफल (remainder) को लो। जब remainder शून्य हो जाए, उस समय की छोटी संख्या ही GCD होती है।
